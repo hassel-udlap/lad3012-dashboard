@@ -20,8 +20,8 @@ st.set_page_config(
 # ============================================================
 # PASO 1 — CAMBIA ESTAS DOS LINEAS ANTES DE SUBIR A GITHUB
 # ============================================================
-TU_NOMBRE = "Tu Nombre Aqui"
-TU_ID     = "000000"
+TU_NOMBRE = "Dafne Hassel Sanchez Flores"
+TU_ID     = "181824"
 
 # ============================================================
 # PASO 2 — DEJA ESTO COMO ESTA. NO LO CAMBIES TODAVIA.
@@ -34,8 +34,7 @@ TU_ID     = "000000"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
+Descubrí que la categoría Technology concentra varias de las órdenes con mayor profit del dataset. Recomiendo enfocar campañas y promociones en esta categoría para incrementar la rentabilidad total del negocio.
 """
 
 # ============================================================
